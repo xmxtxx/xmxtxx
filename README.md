@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xmxtxx
-- 👀 I’m interested in Gamedev,Android apps, Robotics
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Gamedev,Android apps, Robotics, Ai
+- 🌱 I’m currently learning Python, C#
 
 <!---
 xmxtxx/xmxtxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
