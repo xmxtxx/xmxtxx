@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @xmxtxx
-- 👀 I’m interested in Gamedev,Android apps, Robotics, Ai
+- 👋 I'm a Fullstack Dev
+- 👀 I’m interested in Gamedev,Android apps, Robotics, Ai, Web
 - 🌱 I’m currently learning Python, C#
 
 <!---
