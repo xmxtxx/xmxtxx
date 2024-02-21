@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xmxtxx
-- 👀 I’m interested in Gamedev,Android apps, Robotics, Ai
-- 🌱 I’m currently learning Python and C#
+- 👀 I’m interested in App dev, Robotics, Ai
+- 🌱 I’m currently learning Flutter
 
 <!---
 xmxtxx/xmxtxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
