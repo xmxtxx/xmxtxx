@@ -5,7 +5,7 @@ or Mathieu
 ----------
 
 * 🌍  I'm based in Switerzland
-* 🧠  I'm learning Python, Tensorflow
+* 🧠  I'm learning React
 
 
 ### Skills
