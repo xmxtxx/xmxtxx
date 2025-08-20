@@ -32,10 +32,15 @@ or Mathieu
 
 
 <b>My GitHub Stats</b>
+![](https://github-readme-stats.vercel.app/api?username=xmxtxx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=xmxtxx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xmxtxx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="http://www.github.com/xmxtxx"><img src="https://github-readme-stats.vercel.app/api?username=xmxtxx&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="xmxtxx's GitHub stats" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=xmxtxx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="http://www.github.com/xmxtxx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xmxtxx&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!---
 xmxtxx/xmxtxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
