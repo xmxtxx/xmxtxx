@@ -5,7 +5,7 @@ or Mathieu
 ----------
 
 * 🌍  I'm based in Switerzland
-* 🧠  I'm learning React
+* 🧠  I'm learning React and prisma
 
 
 ### Skills
