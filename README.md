@@ -6,8 +6,6 @@ or Mathieu
 
 * 🌍  I'm based in Switerzland
 * 🧠  I'm learning React
-* 📱  I'm trying to develop my own App
-
 
 ### Skills
 
