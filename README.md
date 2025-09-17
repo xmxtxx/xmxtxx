@@ -4,7 +4,7 @@ Hi 👋 My name is Mxtx
 or Mathieu
 ----------
 
-* 🌍  I'm based in Switerzland
+* 🌍  I'm based in Switzerland
 * 🧠  I'm learning React
 
 ### Skills
